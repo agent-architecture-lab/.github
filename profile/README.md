@@ -17,7 +17,7 @@
 [![Onboarding](https://img.shields.io/badge/Onboarding-3--Day%20guide-24292F?logo=github&logoColor=white)](https://github.com/agent-architecture-lab/aal-onboarding)
 [![Textbook](https://img.shields.io/badge/Textbook-all--agentic--architectures-F37626?logo=jupyter&logoColor=white)](https://github.com/FareedKhan-dev/all-agentic-architectures)
 
-정규 세션 **매주 목요일 19:30–21:30 (KST)** · [디스코드 서버](https://discord.gg/WF8cTKNUy) 100% 온라인
+정규 세션 **매주 목요일 19:30–20:30 (KST)** · [디스코드 서버](https://discord.gg/WF8cTKNUy) 100% 온라인
 
 </div>
 
@@ -83,7 +83,7 @@ flowchart LR
 | 저장소 | 내용 |
 | --- | --- |
 | [`aal-onboarding`](https://github.com/agent-architecture-lab/aal-onboarding) | 3-Day 온보딩 가이드 · 점검 스크립트 · 크루 자기소개 |
-| 실습 레포 | 10/3 팀 OT에서 공지 |
+| [`agent-architecture-lab`](https://github.com/agent-architecture-lab/agent-architecture-lab)  | 실습레포 |
 | `aal-skills` | 랩 공용 Codex 스킬·플러그인 (준비 중) |
 
 <div align="center">
